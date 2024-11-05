@@ -1,0 +1,28 @@
+#+title: How to start in a new team
+
+0. Say hi!
+
+1. Present yourself
+  - studies
+  - experiences
+  - hobbies
+
+2. Explain your role here
+  - your mission
+  - what they can expect of you
+  - what you expect from them
+
+3. Organize one-ones
+  - what is your job here?
+  - what do you like here?
+  - what challenges do you see?
+  - what do you expect from me?
+
+4. Observe
+  - do not juge first
+  - redraw the organization chart
+  - understand processes
+  - note impediments
+  - detect anti-patterns
+
+5. Present your action plan
