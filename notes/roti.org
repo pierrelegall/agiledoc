@@ -1,0 +1,28 @@
+#+title: ROTI
+
+ROTI, for "Return On Time Invested", is a feedback technique used to evaluate the effectiveness and value of meetings.
+
+* How?
+
+At the meeting's end, ask participants to rate the session from 1-5. Optionally but recommanded, gather brief comments on the ratings. Use feedback to improve future meetings.
+
+Here's what each level typically means:
+1. Waste of Time - The meeting provided no value
+2. Not Very Valuable - Limited value, could have been handled differently
+3. Somewhat Valuable - Had some useful elements but could be improved
+4. Good Use of Time - Provided clear value to participants
+5. Very Valuable - Exceptional value, achieved all objectives effectively
+
+* Why?
+
+- Gauge meeting effectiveness
+- Identify areas for improvement
+- Ensure respect for participants' time
+- Encourage better meeting planning and facilitation
+
+* Best practices
+
+- Keep it quick (usually 1-2 minutes)
+- Encourage honest feedback
+- Act on the feedback received
+- Track ROTI over time to identify trends
