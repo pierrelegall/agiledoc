@@ -5,6 +5,7 @@ This repository is a compilation of notes about Agile software development and r
 * Notes
 
 - [[./notes/agile_manifesto.org][Agile Manifesto]]
+- [[./notes/extreme_programming.org][Extreme Programming (XP)]]
 - [[./notes/how_to_start_in_a_new_team.org][How to start in a new team]]
 - [[./notes/invest.org][INVEST]]
 - [[./notes/kanban_guide_2020.org][Kanban Guide 2020]]

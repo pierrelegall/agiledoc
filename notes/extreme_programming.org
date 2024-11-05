@@ -1,0 +1,14 @@
+#+title: Extreme Programming (XP)
+
+Extreme Programming (XP) is an Agile software development framework that is characterized by practices intended to improve software quality and responsiveness to changing customer requirements.
+
+Some of the key principles and practices of XP include:
+- *Rapid Feedback Loops*: XP emphasizes getting rapid feedback from customers and end-users through practices like pair programming, continuous integration, and automated testing.
+- *Iterative and Incremental Development*: XP teams work in short iterations, delivering working software frequently and incorporating customer feedback along the way.
+- *Simple Design*: XP encourages teams to keep the design of the software as simple as possible, only adding complexity when it's needed.
+- *Continuous Refactoring*: XP practitioners regularly refactor the codebase to improve its structure and maintainability without changing its external behavior.
+- *Collective Code Ownership*: In XP, the entire team shares responsibility for the entire codebase, rather than individual developers "owning" specific modules or components.
+- *Test-Driven Development (TDD)*: As mentioned earlier, TDD is a core XP practice where developers write automated tests before writing the actual implementation code.
+- *Pair Programming*: XP teams typically practice pair programming, where two developers work together on the same computer, coding, reviewing, and learning from each other.
+
+XP is known for its emphasis on feedback, communication, simplicity, and courage - empowering developers to continually improve the software and respond to change. 
