@@ -8,6 +8,7 @@ This repository is a compilation of notes about Agile software development and r
 - [[./notes/invest.org][INVEST]]
 - [[./notes/meeting_roles.org][Meeting roles]]
 - [[./notes/roti.org][ROTI]]
+- [[./notes/scrum_guide_2020.org][Scrum Guide 2020]]
 
 * Contributing
 
