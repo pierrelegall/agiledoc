@@ -6,6 +6,7 @@ This repository is a compilation of notes about Agile software development and r
 
 - [[./notes/agile_manifesto.org][Agile Manifesto]]
 - [[./notes/invest.org][INVEST]]
+- [[./notes/kanban_guide_2020.org][Kanban Guide 2020]]
 - [[./notes/meeting_roles.org][Meeting roles]]
 - [[./notes/roti.org][ROTI]]
 - [[./notes/scrum_guide_2020.org][Scrum Guide 2020]]
