@@ -5,6 +5,7 @@ This repository is a compilation of notes about Agile software development and r
 * Notes
 
 - [[./notes/agile_manifesto.org][Agile Manifesto]]
+- [[./notes/invest.org][INVEST]]
 - [[./notes/roti.org][ROTI]]
 
 * Contributing

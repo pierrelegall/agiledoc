@@ -1,0 +1,47 @@
+#+title: INVEST
+
+The INVEST principle is a set of guidelines that helps to evaluate a user story’s quality.
+
+It stands for:
+- independent
+- negotiable
+- valuable
+- estimable
+- small
+- testable
+
+* Independent
+
+The story should be self-contained and not inherently dependent on other stories.
+
+Example: "As a user, I can log in with my email" is independent, while "As a user, I can add items to my wishlist after logging in" has a dependency.
+
+* Negotiable
+
+Stories should be flexible and open to discussion, not overly prescriptive. They represent outcomes rather than detailed specifications.
+
+Example: "As a user, I want to share content with others" vs. "System must have Facebook, Twitter, and Email sharing buttons".
+
+* Valuable
+
+Each story should deliver clear value to users or stakeholders.
+
+Example: "As a shopper, I can save my delivery address to speed up future purchases" has clear user value.
+
+* Estimable
+
+Teams should be able to estimate the effort required. If a story is too vague or too large, it needs to be broken down.
+
+Example: "As a user, I want a better interface" is not estimable, but "As a user, I want a search bar with auto-complete" is.
+
+* Small
+
+Stories should be sized appropriately to be completed in one iteration. Large stories (also named "epics") should be broken down.
+
+Example: Break "Complete checkout process" into smaller stories like "Enter shipping info," "Select payment method," etc.
+
+* Testable
+
+Stories must be written so that they can be verified. Clear acceptance criteria are crucial.
+
+Example: "As a user, I can reset my password" with acceptance criteria: must receive email, link must work, must be able to set new password.
