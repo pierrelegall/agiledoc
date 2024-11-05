@@ -1,0 +1,7 @@
+#+title: AgileDoc
+
+This repository is a compilation of notes about Agile software development and related concepts.
+
+* Contributing
+
+Feel free to post an issue or a PR! ✨
