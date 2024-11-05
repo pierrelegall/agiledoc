@@ -1,0 +1,34 @@
+#+title: Meeting roles
+
+* The Leader
+
+- Remind the goal of the meeting
+- Present an agenda
+- Explain each agenda items
+- Communicate conclusions
+- Assign action items
+
+* Facilitator
+
+- Help reduce confusion
+- Ensure everyone listens to a speaker
+- Make sure speaking time is shared
+- Is often the leader, otherwise is a participent too
+
+* The Recorder
+
+- Take accurate meeting notes
+- Share notes asap
+- Is a participant too
+
+* The Timekeeper
+
+- Manage time limits for each agenda item
+- Is a participant too
+
+* Participants
+
+- Understand the time constraint
+- Ask if something is unclear
+- Contribute to discussions
+- Share ideas
