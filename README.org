@@ -1,6 +1,6 @@
 #+title: AgileDoc
 
-This repository is a compilation of notes about Agile software development and related concepts.
+This repository is a compilation of notes about Agile software development and related topics.
 
 * Notes
 
